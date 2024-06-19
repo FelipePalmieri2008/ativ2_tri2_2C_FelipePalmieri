@@ -13,10 +13,6 @@ body {background-color: rgb(255, 255, 255);}
 .part1 {border-color: blue;
         border-style: double;
         border-width: 6px;
-    }
-.part1 {border-color: blue;
-    border-style: inherit;
-    border-width: 6px;
 }
 {margin-right: 20%;}
 
