@@ -12,25 +12,25 @@ body {background-color: rgb(255, 255, 255);}
 }
 .part1 {border-color: blue;
         border-style: double;
-        border-width: 6px;
-        margin-right: 20%;
-}
+            border-width: 6px;}
+       .part1 {margin-right: 20%;}
+
 body{text-align: center;}
 
 
 
 .part2 {border-color: blue;
     border-style: none;
-    border-width: 6px;
-    margin-right: 20%;
-}
+    border-width: 6px;}
+   .part2 {margin-right: 20%;}
+
 body{text-align: center;}
 
 
 
 .part3 {border-color: blue;
     border-style: solid;
-    border-width: 6px;
-    margin-right: 20%;
-}
+    border-width: 6px;}
+   .part3 {margin-right: 20%;}
+
 body{text-align: center;}
